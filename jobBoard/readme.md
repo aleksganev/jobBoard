@@ -3,11 +3,11 @@
 Job Board Project
 
 //Requirements:
-XAMPP
-A database (MySQL)
-A web server runinng on localhost (Apache)
-Home page file: index.php
-Home page link: http://localhost/jobBoard/index.php
+XAMPP<br />
+A database (MySQL)<br />
+A web server runinng on localhost (Apache)<br />
+Home page file: index.php<br />
+Home page link: http://localhost/jobBoard/index.php<br />
 
 //Information about the project:
 This is a simple job board project. 
