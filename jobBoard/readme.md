@@ -23,4 +23,7 @@ This is a simple job board project. <br />
 -Submissions => Edit: Displays a form for editing the selected submission <br />
 -Submissions => Approve: Moves the offer from the Submissions page to the Job Offers page <br />
 -Submissions => Reject: Deletes the job submission <br />
--Log out button => Logs the user out <br />
+-Log out button => Logs the user out <br /> <br />
+
+Note: <br />
+The Database export is "jobs_board.sql" <br /> <br />
